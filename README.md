@@ -2,7 +2,7 @@
 
 This is the code for my personal portfolio.
 
-www.mkafanke.github.io
+mkafanke.github.io
 
 Thanks to Amine Afia for helping me with the base code.
 
