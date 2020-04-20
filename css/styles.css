@@ -507,6 +507,15 @@ no-particles-js{
     font-weight:300;
     color:#374054
 }
+#workexperience{
+    padding:50px 15px 20px 15px;
+    border-bottom:1px solid #dcd9d9;
+    text-align:center
+}
+#workexperience h2{
+    color:#374054;
+    margin-bottom:50px
+}
 #education{
     padding:50px 15px 20px 15px;
     border-bottom:1px solid #dcd9d9;
